@@ -38,20 +38,20 @@ checkout thus creating order and emptying the cart</li>
 
 ## UI images
 #### About Page
-<img width="1435" alt="about_page" src="<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/about.png">
+<img width="1435" alt="about_page" src="https://github.com/krishnamandhane/xenonproject/blob/main/image/about.png">
 
 #### Home Page
-<img width="1435" alt="home_page" src="<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/Home.png">
+<img width="1435" alt="home_page" src="https://github.com/krishnamandhane/xenonproject/blob/main/image/Home.png">
 
 #### Login Page
-<img width="1435" alt="signIp_page" src="<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/signin.png">
+<img width="1435" alt="signIp_page" src="https://github.com/krishnamandhane/xenonproject/blob/main/image/signin.png">
 
 #### Sign-up Page
-<img width="1435" alt="signUp_page" src="<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/signup.png">
+<img width="1435" alt="signUp_page" src="https://github.com/krishnamandhane/xenonproject/blob/main/image/signup.png">
 
 #### MYSQL Page
 
-<img width="1435" alt="mysql" src="<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/mysql.png">
+<img width="1435" alt="mysql" src="https://github.com/krishnamandhane/xenonproject/blob/main/image/mysql.png">
 
 
 ## Developed With
