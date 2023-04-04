@@ -53,3 +53,31 @@ checkout thus creating order and emptying the cart</li>
 
 <img width="1435" alt="mysql" src="<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/mysql.png">
 
+
+## Developed With
+Visual Studio Code - A source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring
+React - A javascript library for building user interfaces
+Create react app - A quick method to start developing a react application.
+Babel - A transpiler for javascript
+Webpack - A module bundler
+SCSS - A css metalanguage
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+## Prerequisites
+The following software is required to be installed on your system:
+
+Node 8.x
+Npm 3.x
+Type the following commands in the terminal to verify your node and npm versions
+
+node -v
+npm -v
+
+Install node modules
+
+npm install
+Starting front-end servers
+Build application
+
+npm start
