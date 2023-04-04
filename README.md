@@ -38,20 +38,18 @@ checkout thus creating order and emptying the cart</li>
 
 ## UI images
 #### About Page
-<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/about.png">
+<img width="1435" alt="signUp_page" src="<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/about.png">
 
 #### Home Page
-<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/Home.png">
+<img width="1435" alt="signUp_page" src="<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/Home.png">
 
 #### Login Page
-<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/signin.png">
+<img width="1435" alt="signUp_page" src="<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/signin.png">
 
 #### Sign-up Page
-<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/signup.png">
+<img width="1435" alt="signUp_page" src="<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/signup.png">
 
 #### MYSQL Page
-<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/mysql.png">
 
-
-
+<img width="1435" alt="signUp_page" src="<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/mysql.png">
 
