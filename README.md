@@ -37,18 +37,21 @@ checkout thus creating order and emptying the cart</li>
 </ul>
 
 ## UI images
+#### About Page
+<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/about.png">
 
 #### Home Page
-<img width="">
+<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/Home.png">
 
 #### Login Page
-<img width="">
+<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/signin.png">
 
 #### Sign-up Page
-<img width="">
+<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/signup.png">
 
-#### Cart Page
-![image]()
+#### MYSQL Page
+<img width="https://github.com/krishnamandhane/xenonproject/blob/main/image/mysql.png">
+
 
 
 
